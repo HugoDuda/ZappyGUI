@@ -2,6 +2,8 @@
 Zappy is a Epitech project which is a Networking game involving teams of AI battling each other to reach maximum level in an arena containing limited resources. Winning team is the one that have at least 6 members at max level.
 This repository is for GUI part of this project.
 
+This GUI is based on Pokémon Mystery Dungeon with the first 900 Pokémon as well as 5 different dungeon themes.
+
 ## ✅ Requirements
 - **C++23** or later (tested with g++ -std=c++23).
 - **Raylib 5.5** (Graphics, Window, System) for interactive display.
